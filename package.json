@@ -1,0 +1,25 @@
+{
+  "name": "custom-chatbot-rag-agent",
+  "version": "1.0.0",
+  "description": "Modular, offline-first Retrieval-Augmented Generation (RAG) agent engine with cosine similarity ranking and context synthesis",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/rag.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "rag",
+    "embeddings",
+    "vector-search",
+    "cosine-similarity",
+    "ai-agent",
+    "nlp"
+  ],
+  "author": "Felipe Madson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "typescript": "5.7.2"
+  }
+}

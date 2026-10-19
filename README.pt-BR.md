@@ -11,4 +11,4 @@ Motor modular de Geração Aumentada por Recuperação (RAG) para agentes inteli
 
 ## Licença
 
-MIT © [Felipe Madson](https://github.com/FelipeMadson)
+MIT © [Felipe Madison](https://github.com/FelipeMadson)
